@@ -29,6 +29,6 @@ cat test-output.txt
 
 
 # Clean up the cloned directory
-cd ..
-rm -rf student-submission
+# cd ..
+# rm -rf student-submission
 
